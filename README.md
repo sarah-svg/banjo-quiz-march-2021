@@ -9,3 +9,15 @@
     - How? `someElement.textContent = 'these are your results . . . '` 
 
 What does it mean to launch a quiz?
+    - Announce that there is a quiz
+        - How? `alert()`
+    - Check to see if the user wants to take it
+        - How? `confirm()`
+    - Get the user's name
+        - How? `prompt()`
+    - Ask three questions
+        - How?  `prompt()`
+    - Score the quiz
+        - How? `isYes()`
+    - Display the results
+        - How? `textContent = 'whatever'`
